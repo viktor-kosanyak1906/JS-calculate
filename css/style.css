@@ -8,14 +8,14 @@
     line-height: 60px;
 }
 .btn:hover {
-    background: snow;
-    color: silver;
+    background: orange;
+    color: white;
 }
 #calc-wrap {
     padding: 10px;
-    width: 350px;
+    width: 250px;
     text-align: center;
-    background: black;
+    background: springgreen;
 }
 #calc {
     width: 250px;

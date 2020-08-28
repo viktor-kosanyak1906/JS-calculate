@@ -3,7 +3,8 @@ window.addEventListener('load', function OnWindowLoaded() {
         '1','2','3','+',
         '4','5','6','-',
         '7','8','9','/',
-        '0','=','.','c'
+        '0','=','.','*',
+        'c','%',
     ];
     var calc = document.getElementById('calc');
     var textArea = document.getElementById('inputVal');
